@@ -10,7 +10,7 @@ I build backend systems that scale from idea to production.<br><br>Over the last
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=B-Anand18&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=B-Anand18&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=B-Anand18&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=B-Anand18&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&hide=html,css,scss)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
